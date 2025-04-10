@@ -1,7 +1,9 @@
 하이
 
 <p align="center">
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjcks)](https://solved.ac/dntjcks)
+  <a href="https://solved.ac/dntjcks">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjcks" alt="Solved.ac 프로필"/>
+  </a>
 </p>
 
 ---
