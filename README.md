@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://solved.ac/dntjcks">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjcks" alt="Solved.ac 프로필"/>
-    <img src="http://mazandi.herokuapp.com/api?dntjcks=dntjcks&theme=dark"/>
+    <img src="http://mazandi.herokuapp.com/api?dntjcks={dntjcks}&theme=dark"/>
   </a>
 </p>
 
